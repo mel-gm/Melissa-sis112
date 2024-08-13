@@ -8,6 +8,3 @@ Este repositorio tiene como proposito poder programar en un entorno seguro, pudi
 Para poder clonar el repositorio:
 - Utilizamos el comando "git clone" 
 - Después pegamos el enlace del repocitorio que se desea clonar que se encuentra en Github.
-
-
-1
