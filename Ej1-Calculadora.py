@@ -30,6 +30,27 @@ while contador != 6:
     else:
         print("--- Eso es todo :/, Gracias ---")
 
+operacion = input("Elija una operación: ")
+def suma (a,b):
+    resultado = a+b
+    return
+def resta (a,b):
+    resultado = a-b
+    return
+def multi (a,b):
+    resultado = a*b
+    return
+def divi (a,b):
+    resultado = a/b
+    return
+
+
+    
+
+
+
+
+
         
 
 
