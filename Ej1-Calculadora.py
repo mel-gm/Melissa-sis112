@@ -1,3 +1,4 @@
+
 contador = 0
 print("--- CALCULADORA ---")
 while contador != 6:
@@ -30,22 +31,22 @@ while contador != 6:
     else:
         print("--- Eso es todo :/, Gracias ---")
 
-operacion = input("Elija una operación: ")
+    #FUNCIONES 
+elegir = input("Elija una operación: ")
 def suma (a,b):
-    resultado = a+b
-    return
+    return a+b
+
 def resta (a,b):
-    resultado = a-b
-    return
+    return a-b
+
 def multi (a,b):
-    resultado = a*b
-    return
-def divi (a,b):
-    resultado = a/b
-    return
-
-
+    return a*b
     
+def divi (a,b):
+    return a/b
+a = int(input("Ingrese el primer número: "))
+b = int(input("Ingrese el segundo número: "))
+
 
 
 
